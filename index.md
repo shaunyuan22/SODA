@@ -52,7 +52,7 @@ We exhibit the experiment resullts of several representative methods on SODA tes
     | FCOS | $$1 \times$$ | 28.7 | 55.1 | 26.0 | 23.9 | 11.9 | 25.6 | 32.8 | 40.9 |
     | RepPoints | $$1 \times$$ | 32.9 | 60.8 | 30.9 | 28.0 | 16.2 | 29.6 | 36.8 | 45.3 |
     | ATSS | $$1 \times$$ | 30.1 | 59.5 | 26.3 | 26.1 | 17.0 | 27.4 | 32.8 | 40.5 |
-    | Deformable-DETR | $$50e$$ | 23.4 | 50.6 | 18.8 | 19.2 | 10.1 | 20.0 | 26.5 | 34.2 |
+    | Deformable-DETR <img width=200/> | $$50e$$ | 23.4 | 50.6 | 18.8 | 19.2 | 10.1 | 20.0 | 26.5 | 34.2 |
     | Sparse RCNN | $$1 \times$$ | 28.3 | 55.8 | 25.5 | 24.2 | 14.1 | 25.5 | 31.7 | 39.4 |
     
  - SDOA-A
