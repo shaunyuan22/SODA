@@ -44,7 +44,7 @@ SODA-A comprises 2510 high-resolution images ofaerial scenes, which has 780203 i
 We exhibit the experiment resullts of several representative methods on SODA test-set as follow.
  - SDOA-D
  
-    | **Method** | **Schedule** | $$AP$$ | $$AP_{50}$$ | $$AP_{75}$$ | $$AP_T$$ | $$AP_{eT}$$ | $$AP_{rT}$$ | $$AP_{gT}$$ | $$AP_S$$ |
+    | **Method** | **Schedule** | **$$AP$$** | **$$AP_{50}$$** | **$$AP_{75}$$** | **$$AP_T$$** | **$$AP_{eT}$$** | **$$AP_{rT}$$** | **$$AP_{gT}$$** | **$$AP_S$$** |
     | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
     | Faster RCNN | $$1 \times$$ | 32.9 | 64.5 | 29.4 | 28.9 | 19.3 | 30.1 | 35.8 | 43.2 |
     | Cascade RCNN | $$1 \times$$ |35.7 | 64.6 | 33.8 | 31.2 | 20.4 | 32.5 | 39.0 | 46.9 |
@@ -57,7 +57,7 @@ We exhibit the experiment resullts of several representative methods on SODA tes
     
  - SDOA-A
  
-    | **Method** | **Schedule** | $$AP$$ | $$AP_{50}$$ | $$AP_{75}$$ | $$AP_T$$ | $$AP_{eT}$$ | $$AP_{rT}$$ | $$AP_{gT}$$ | $$AP_S$$ |
+    | **Method** | **Schedule** | **$$AP$$** | **$$AP_{50}$$** | **$$AP_{75}$$** | **$$AP_T$$** | **$$AP_{eT}$$** | **$$AP_{rT}$$** | **$$AP_{gT}$$** | **$$AP_S$$** |
     | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
     | &nbsp; &nbsp; Rotated Faster RCNN &nbsp; &nbsp; | $$1 \times$$ | 34.0 | 72.6 | 25.7 | 32.5 | 18.6 | 34.2 | 39.0 | 34.4 |
     | Rotated RetinaNet | $$1 \times$$ | 28.1 | 66.1 | 17.4 | 26.8 | 14.9 | 28.3 | 32.8 | 28.2 |
