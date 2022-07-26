@@ -11,7 +11,7 @@
   text-align: initial;
 }
 .katex {
-  font: normal 1.0em KaTeX_Main, Times New Roman, serif;
+  font: normal 1.21em KaTeX_Main, Times New Roman, serif;
   line-height: 1.2;
   white-space: normal;
   text-indent: 0;
@@ -59,12 +59,12 @@ We exhibit the experiment resullts of several representative methods on SODA tes
  
     | **Method** | **Schedule** | **$$AP$$** | **$$AP_{50}$$** | **$$AP_{75}$$** | **$$AP_T$$** | **$$AP_{eT}$$** | **$$AP_{rT}$$** | **$$AP_{gT}$$** | **$$AP_S$$** |
     | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-    | &nbsp; &nbsp; Rotated Faster RCNN &nbsp; &nbsp; | $$1 \times$$ | 34.0 | 72.6 | 25.7 | 32.5 | 18.6 | 34.2 | 39.0 | 34.4 |
+    | Rotated Faster RCNN| $$1 \times$$ | 34.0 | 72.6 | 25.7 | 32.5 | 18.6 | 34.2 | 39.0 | 34.4 |
     | Rotated RetinaNet | $$1 \times$$ | 28.1 | 66.1 | 17.4 | 26.8 | 14.9 | 28.3 | 32.8 | 28.2 |
     | RoI Transformer | $$1 \times$$ | 37.7 | 75.5 | 32.1 | 36.0 | 20.7 | 37.3 | 43.3 | 39.5 |
     | Gliding Vertex | $$1 \times$$ | 33.2 | 73.2 | 24.1 | 31.7 | 18.6 | 32.6 | 38.6 | 33.8 |
     | Oriented RCNN | $$1 \times$$ | 36.0 | 73.2 | 30.4 | 34.4 | 19.5 | 35.6 | 41.2 | 36.7 |
-    | S$$^2$$ A-Net | $$1 \times$$ | 29.6 | 72.4 | 14.0 | 28.3 | 15.6 | 29.1 | 33.8 | 29.5 |
+    | S$^2$ A-Net | $$1 \times$$ | 29.6 | 72.4 | 14.0 | 28.3 | 15.6 | 29.1 | 33.8 | 29.5 |
     | DODet | $$1 \times$$ | 32.4 | 69.5 | 24.4 | 30.9 | 17.7 | 32.0 | 36.6 | 32.9 |
 
 ### Download
