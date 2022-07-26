@@ -21,25 +21,25 @@
 </head>
 -->
 
-# SODA: A Large-scale Benchmark for Small Object Detection
+# **SODA: A Large-scale Benchmark for Small Object Detection**
 **SODA** is a large-scale benckmark for Small Object Detection, including **SODA-D** and **SODA-A** which concentrate on Driving and Aerial scenarios respectively.
 
-### Update
+## Update
  - [20220726] Our [Homepage](https://shaunyuan22.github.io/SODA/) for SODA benchmark opens!
  - [20220726] Our paper of SODA dataset is submitted to [*arXiv*](https://arxiv.org).
- - [20220726] SODA Benchmark is officially available, please refer to the Download below.
+ - [20220726] SODA Benchmark is officially available, please refer to the **Download** below.
  - [20220726] [Codes](https://github.com/shaunyuan22/SODA) for training and evaluating of SODA-D and SODA-A dataset are released.
- - [20220726] Pretrained models are released, please see the Dataset Download part.
+ - [20220726] Pretrained models are released, please see the **Download** part.
  
-### SODA-D
+## SODA-D
 SODA-D contains 24704 well-chosen and high-quality images under driving scenarios, on which 274496 instances of 9 categories with horizontal bounding boxes were annotated. Some example images are shown below.
 ![image](imgs/sodad_vis.png)
 
-### SODA-A
+## SODA-A
 SODA-A comprises 2510 high-resolution images ofaerial scenes, which has 780203 instances annotated with oriented rectangle box annotations over 9 classes. An example image of SODA-A is shown next.
 ![image](imgs/sodaa_vis.png)
 
-### Results
+## Results
 We exhibit the experiment resullts of several representative methods on SODA test-set as follow.
  - SDOA-D
   ![image](imgs/sodad_res.PNG)
@@ -70,7 +70,7 @@ We exhibit the experiment resullts of several representative methods on SODA tes
     | DODet | $1 \times$ | 32.4 | 69.5 | 24.4 | 30.9 | 17.7 | 32.0 | 36.6 | 32.9 |
     -->
 
-### Download
+## Download
 We provide the downloading of our paper, datasets and pretrained models.
  - Paper: [Towards Large-Scale Small Object Detection: Survey and Benchmarks](https://arxiv.org)
  - Datasets:
@@ -79,5 +79,5 @@ We provide the downloading of our paper, datasets and pretrained models.
  - Pretrained Models: Models trained on trsin-set are available at: [OneDrvie](https://www.microsoft.com/onedrive); [BaiduNetDisk](https://pan.baidu.com)
 
 
-### Support or Contact
+## Support or Contact
 If you have any problems about our SODA benchmark, please be free to contact us at shaunyuan@mail.nwpu.edu.cn.
