@@ -71,9 +71,9 @@ We exhibit the experiment resullts of several representative methods on SODA tes
 We provide the downloading of our paper, datasets and pretrained models.
  - Paper: [Towards Large-Scale Small Object Detection: Survey and Benchmarks](https://arxiv.org)
  - Datasets:
-   - SODA-D: [OneDrvie](https://www.microsoft.com/onedrive); [BdiduNetDisk](https://pan.baidu.com)
-   - SODA-A: [OneDrvie](https://www.microsoft.com/onedrive); [BdiduNetDisk](https://pan.baidu.com)
- - Pretrained Models: Models trained on trsin-set are available at: [OneDrvie](https://www.microsoft.com/onedrive); [BdiduNetDisk](https://pan.baidu.com)
+   - SODA-D: [OneDrvie](https://www.microsoft.com/onedrive); [BaiduNetDisk](https://pan.baidu.com)
+   - SODA-A: [OneDrvie](https://www.microsoft.com/onedrive); [BaiduNetDisk](https://pan.baidu.com)
+ - Pretrained Models: Models trained on trsin-set are available at: [OneDrvie](https://www.microsoft.com/onedrive); [BaiduNetDisk](https://pan.baidu.com)
 
 
 ### Support or Contact
