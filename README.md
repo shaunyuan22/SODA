@@ -1,1 +1,1 @@
-# SODA: Large-scale Benchmark for Small Object Detection
+# SODA: A Large-scale Benchmark for Small Object Detection
