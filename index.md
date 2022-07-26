@@ -1,3 +1,25 @@
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+<style>
+.katex-display > .katex {
+  display: inline-block;
+  white-space: nowrap;
+  max-width: 100%;
+  overflow-x: scroll;
+  text-align: initial;
+}
+.katex {
+  font: normal 1.21em KaTeX_Main, Times New Roman, serif;
+  line-height: 1.2;
+  white-space: normal;
+  text-indent: 0;
+}
+</style>
+</head>
+
+
 <!-- <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
 
 ## SODA: A Large-scale Benchmark for Small Object Detection
@@ -17,6 +39,8 @@ SODA-D contains 24704 well-chosen and high-quality images under driving scenario
 ### SODA-A
 SODA-A comprises 2510 high-resolution images ofaerial scenes, which has 780203 instances annotated with oriented rectangle box annotations over 9 classes. An example image of SODA-A is shown next.
 ![image](imgs/sodaa_vis.png)
+
+| **Method** | **Schedule** | $$AP$$ | $$AP_{50}$$ | $$AP_{75}$$ | $$AP_T$$ | $$AP_{eT}$$ | $$AP_{rT}$$ | $$AP_{gT}$$ | $$AP_S$$ |
 
 ### Results
 We exhibit the experiment resullts of several representative methods on SODA test-set as follow.
