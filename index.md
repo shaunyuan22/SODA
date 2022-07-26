@@ -21,7 +21,9 @@ We exhibit the experiment resullts of several representative methods on SODA-D t
 <!--![image](imgs/sodad_res.PNG)-->
 <!--![image](imgs/sodaa_res.PNG)-->
 
-| Method | Schedule | $AP$ |
+| **Method** | **Schedule** | $AP$ | $AP_{50}$ | $AP_{75}$ | $AP_T$ | $AP_{eT}$ | $AP_{rT}$ | $AP_{gT}$ | $AP_S$ |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| Faster RCNN | $1 \times$ | 32.9 | 64.5 | 29.4 | 28.9 | 19.3 | 30.1 | 35.8 | 43.2 |
 
 
 ### Download
