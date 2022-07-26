@@ -54,5 +54,4 @@ We provide the downloading of our paper, datasets and pretrained models.
 
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any problems about our SODA benchmark, please be free to contact us [Email](shaunyuan@mail.nwpu.edu.cn)
