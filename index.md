@@ -3,10 +3,10 @@ SODA is a large-scale benckmark for Small Object Detection, including SODA-D and
 
 ### Update
  - [20220726] Our [Homepage](https://shaunyuan22.github.io/SODA/) for SODA benchmark opens!
- - [2022----] The paper of SODA dataset and a thorough review on Small Object Detection was submitted to [arXiv](https://arxiv.org).
- - [2022----] SODA Benchmark if officially available, please refer to the Dataset Download 
- - [2022----] Codes for training and evaluating of SODA-D and SODA-A dataset are released (https://github.com/shaunyuan22/SODA).
- - [2022----] Pretrained models for SODA-D and SODA-A are released, please refer to the Dataset Download 
+ - [20220726] The paper of SODA dataset and a thorough review on Small Object Detection is submitted to [arXiv](https://arxiv.org).
+ - [20220726] SODA Benchmark if officially available, please refer to the Dataset Download 
+ - [20220726] Codes for training and evaluating of SODA-D and SODA-A dataset are released (https://github.com/shaunyuan22/SODA).
+ - [20220726] Pretrained models for SODA-D and SODA-A are released, please refer to the Dataset Download 
  
 ### SODA-D
 SODA-D contains 24704 well-chosen and high-quality images under driving scenarios, on which 274496 instances of 9 categories with horizontal bounding boxes were annotated. Some example images are shown below.
