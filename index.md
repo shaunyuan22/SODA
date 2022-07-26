@@ -1,6 +1,6 @@
 <!-- <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
 
-## Large-scale Benchmark for Small Object Detection: SODA
+## SODA: A Large-scale Benchmark for Small Object Detection
 **SODA** is a large-scale benckmark for Small Object Detection, including **SODA-D** and **SODA-A** which concentrate on Driving and Aerial scenarios respectively.
 
 ### Update
