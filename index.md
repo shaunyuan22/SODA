@@ -17,10 +17,8 @@ SODA-A comprises 2510 high-resolution images ofaerial scenes, which has 780203 i
 ![image](imgs/sodaa_vis.png)
 
 ### Results
-We exhibit the experiment resullts of several representative methods on SODA-D test-set (Top) and SODA-A test-set (Bottom) as follow.
-<!--![image](imgs/sodad_res.PNG)-->
-<!--![image](imgs/sodaa_res.PNG)-->
-
+We exhibit the experiment resullts of several representative methods on SODA test-set as follow.
+ - SDOA-D
 | **Method** | **Schedule** | $AP$ | $AP_{50}$ | $AP_{75}$ | $AP_T$ | $AP_{eT}$ | $AP_{rT}$ | $AP_{gT}$ | $AP_S$ |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | Faster RCNN | $1 \times$ | 32.9 | 64.5 | 29.4 | 28.9 | 19.3 | 30.1 | 35.8 | 43.2 |
@@ -29,8 +27,13 @@ We exhibit the experiment resullts of several representative methods on SODA-D t
 | FCOS | $1 \times$ | 28.7 | 55.1 | 26.0 | 23.9 | 11.9 | 25.6 | 32.8 | 40.9 |
 | RepPoints | $1 \times$ | 32.9 | 60.8 | 30.9 | 28.0 | 16.2 | 29.6 | 36.8 | 45.3 |
 | ATSS | $1 \times$ | 30.1 | 59.5 | 26.3 | 26.1 | 17.0 | 27.4 | 32.8 | 40.5 |
-| Deformable-DETR | $1 \times$ | 23.4 | 50.6 | 18.8 | 19.2 | 10.1 | 20.0 | 26.5 | 34.2 |
+| Deformable-DETR | $50e$ | 23.4 | 50.6 | 18.8 | 19.2 | 10.1 | 20.0 | 26.5 | 34.2 |
 | Sparse RCNN | $1 \times$ | 28.3 | 55.8 | 25.5 | 24.2 | 14.1 | 25.5 | 31.7 | 39.4 |
+
+ - SDOA-A
+| **Method** | **Schedule** | $AP$ | $AP_{50}$ | $AP_{75}$ | $AP_T$ | $AP_{eT}$ | $AP_{rT}$ | $AP_{gT}$ | $AP_S$ |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+
 
 
 ### Download
