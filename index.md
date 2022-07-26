@@ -5,7 +5,7 @@ SODA is a large-scale benckmark for Small Object Detection, including SODA-D and
  - [20220726] Our [Homepage](https://shaunyuan22.github.io/SODA/) for SODA benchmark opens!
  - [20220726] The paper of SODA dataset and a thorough review on Small Object Detection is submitted to [arXiv](https://arxiv.org).
  - [20220726] SODA Benchmark if officially available, please refer to the Dataset Download 
- - [20220726] Codes for training and evaluating of SODA-D and SODA-A dataset are released (https://github.com/shaunyuan22/SODA).
+ - [20220726] [Codes](https://github.com/shaunyuan22/SODA) for training and evaluating of SODA-D and SODA-A dataset are released.
  - [20220726] Pretrained models for SODA-D and SODA-A are released, please refer to the Dataset Download 
  
 ### SODA-D
