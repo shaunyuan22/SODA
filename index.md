@@ -21,7 +21,7 @@ SODA-A comprises 2510 high-resolution images ofaerial scenes, which has 780203 i
 ### Results
 We exhibit the experiment resullts of several representative methods on SODA test-set as follow.
  - SDOA-D
-![images](imgs/sodad_res.PNG)
+  ![images](imgs/sodad_res.PNG)
 
 <!--
 | **Method** | **Schedule** | $AP$ | $AP_{50}$ | $AP_{75}$ | $AP_T$ | $AP_{eT}$ | $AP_{rT}$ | $AP_{gT}$ | $AP_S$ |
