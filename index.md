@@ -1,10 +1,9 @@
 ## Large-scale Benchmark for Small Object Detection: SODA
-SODA is a large-scale benckmark for Small Object Detection, including SODA-D and SODA-A which concentrate on Driving and Aerial scenarios respectively.
+**SODA** is a large-scale benckmark for Small Object Detection, including SODA-D and SODA-A which concentrate on Driving and Aerial scenarios respectively.
 
 ### Update
  - [20220726] Our [Homepage](https://shaunyuan22.github.io/SODA/) for SODA benchmark opens!
- - [20220726] The paper of SODA dataset and a thorough review on Small Object Detection 
-              is submitted to [arXiv](https://arxiv.org).
+ - [20220726] The paper of SODA dataset and a thorough review on Small Object Detection is submitted to [*arXiv*](https://arxiv.org).
  - [20220726] SODA Benchmark if officially available, please refer to the Dataset Download 
  - [20220726] [Codes](https://github.com/shaunyuan22/SODA) for training and evaluating of SODA-D and SODA-A dataset are released.
  - [20220726] Pretrained models for SODA-D and SODA-A are released, please refer to the Dataset Download 
@@ -17,9 +16,19 @@ SODA-D contains 24704 well-chosen and high-quality images under driving scenario
 SODA-A comprises 2510 high-resolution images ofaerial scenes, which has 780203 instances annotated with oriented rectangle box annotations over 9 classes. An example image of SODA-A is shown next.
 ![image](imgs/sodaa_vis.png)
 
+### Results
+We exhibit the experiment resullts of several representative methods on SODA-D test-set (Top) and SODA-A test-set (Bottom) as follow.
+![image](imgs/sodad_res.png)
+![image](imgs/sodaa_res.png)
 
 
-### Dataset Download
+### Download
+We provide the downloading of our paper, datasets and pretrained models.
+ - Paper: [Towards Large-Scale Small Object Detection: Survey and Benchmarks](https://arxiv.org)
+ - Datasets:
+  - SODA-D: [OneDrvie](https://www.microsoft.com/onedrive); [BdiduNetDisk](https://pan.baidu.com)
+  - SODA-A: [OneDrvie](https://www.microsoft.com/onedrive); [BdiduNetDisk](https://pan.baidu.com)
+ - Pretrained Models: Models trained on trsin-set are available at: [OneDrvie](https://www.microsoft.com/onedrive); [BdiduNetDisk](https://pan.baidu.com)
 
 
 You can use the [editor on GitHub](https://github.com/shaunyuan22/SODA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
