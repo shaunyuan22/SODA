@@ -32,6 +32,7 @@ We exhibit the experiment resullts of several representative methods on SODA tes
 | Sparse RCNN | $1 \times$ | 28.3 | 55.8 | 25.5 | 24.2 | 14.1 | 25.5 | 31.7 | 39.4 |
 
  - SDOA-A
+
 | **Method** | **Schedule** | $AP$ | $AP_{50}$ | $AP_{75}$ | $AP_T$ | $AP_{eT}$ | $AP_{rT}$ | $AP_{gT}$ | $AP_S$ |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 
