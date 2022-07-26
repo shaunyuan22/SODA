@@ -36,7 +36,7 @@ SODA-D contains 24704 well-chosen and high-quality images under driving scenario
 ![image](imgs/sodad_vis.png)
 
 ## SODA-A
-SODA-A comprises 2510 high-resolution images ofaerial scenes, which has 780203 instances annotated with oriented rectangle box annotations over 9 classes. An example image of SODA-A is shown next.
+SODA-A comprises 2510 high-resolution images of aerial scenes, which has 780203 instances annotated with oriented rectangle box annotations over 9 classes. An example image of SODA-A is shown next.
 ![image](imgs/sodaa_vis.png)
 
 ## Results
