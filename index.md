@@ -85,7 +85,7 @@ We exhibit the experiment resullts of several representative methods on SODA tes
 
 | **Method** | **Schedule** | **$AP$** | **$AP_{50}$** | **$AP_{75}$** | **$AP_T$** | **$AP_{eT}$** | **$AP_{rT}$** | **$AP_{gT}$** | **$AP_S$** |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| R-Faster RCNN| $1 \times$ | 34.0 | 72.6 | 25.7 | 32.5 | 18.6 | 34.2 | 39.0 | 34.4 |
+|   R-Faster RCNN  | $1 \times$ | 34.0 | 72.6 | 25.7 | 32.5 | 18.6 | 34.2 | 39.0 | 34.4 |
 | R-RetinaNet | $1 \times$ | 28.1 | 66.1 | 17.4 | 26.8 | 14.9 | 28.3 | 32.8 | 28.2 |
 | RoI Transformer | $1 \times$ | 37.7 | 75.5 | 32.1 | 36.0 | 20.7 | 37.3 | 43.3 | 39.5 |
 | Gliding Vertex | $1 \times$ | 33.2 | 73.2 | 24.1 | 31.7 | 18.6 | 32.6 | 38.6 | 33.8 |
