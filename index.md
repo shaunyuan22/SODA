@@ -3,7 +3,7 @@ SODA is a large-scale benckmark for Small Object Detection, including SODA-D and
 
 ### SODA-D
 SODA-D contains 24704 well-chosen and high-quality images of driving scenarios, on which 274496 instances of 9 categories with horizontal bounding boxes were annotated. Some example images are shown below.
-![image](/imgs/sodad_vis.png)
+![image](imgs/sodad_vis.png)
 
 You can use the [editor on GitHub](https://github.com/shaunyuan22/SODA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
