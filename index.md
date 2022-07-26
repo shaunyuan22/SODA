@@ -21,7 +21,7 @@
 </head>
 -->
 
-# SODA: A Large-scale Benchmark for Small Object Detection
+# SODA: A Large-Scale Benchmark for Small Object Detection
 **SODA** is a large-scale benckmark for Small Object Detection, including **SODA-D** and **SODA-A** which concentrate on Driving and Aerial scenarios respectively.
 
 ## Update
