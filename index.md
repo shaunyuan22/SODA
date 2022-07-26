@@ -11,7 +11,7 @@
   text-align: initial;
 }
 .katex {
-  font: normal 1.21em KaTeX_Main, Times New Roman, serif;
+  font: normal 1.0em KaTeX_Main, Times New Roman, serif;
   line-height: 1.2;
   white-space: normal;
   text-indent: 0;
