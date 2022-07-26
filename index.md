@@ -44,7 +44,7 @@ We exhibit the experiment resullts of several representative methods on SODA tes
  - SDOA-D
   ![image](imgs/sodad_res.PNG)
     <!--
-    | &nbsp **Method** &nbsp | **Schedule** | **$AP$** | **$AP_{50}$** | **$AP_{75}$** | **$AP_T$** | **$AP_{eT}$** | **$AP_{rT}$** | **$AP_{gT}$** | **$AP_S$** |
+    | &nbsp &nbsp &nbsp **Method** &nbsp &nbsp &nbsp | **Schedule** | **$AP$** | **$AP_{50}$** | **$AP_{75}$** | **$AP_T$** | **$AP_{eT}$** | **$AP_{rT}$** | **$AP_{gT}$** | **$AP_S$** |
     | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
     | Faster RCNN | $1 \times$ | 32.9 | 64.5 | 29.4 | 28.9 | 19.3 | 30.1 | 35.8 | 43.2 |
     | Cascade RCNN | $1 \times$ |35.7 | 64.6 | 33.8 | 31.2 | 20.4 | 32.5 | 39.0 | 46.9 |
