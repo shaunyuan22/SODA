@@ -56,4 +56,4 @@ We provide the downloading of our paper, datasets and pretrained models.
 
 
 ### Support or Contact
-If you have any problems about our SODA benchmark, please be free to contact us [Email](shaunyuan@mail.nwpu.edu.cn)
+If you have any problems about our SODA benchmark, please be free to contact us at [Email](shaunyuan@mail.nwpu.edu.cn).
