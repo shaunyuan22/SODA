@@ -42,7 +42,8 @@ SODA-A comprises 2510 high-resolution images ofaerial scenes, which has 780203 i
 ### Results
 We exhibit the experiment resullts of several representative methods on SODA test-set as follow.
  - SDOA-D
- 
+    ![image](imgs/sodad_res.PNG)
+    <!--
     | **Method** | **Schedule** | **$AP$** | **$AP_{50}$** | **$AP_{75}$** | **$AP_T$** | **$AP_{eT}$** | **$AP_{rT}$** | **$AP_{gT}$** | **$AP_S$** |
     | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
     | Faster RCNN | $1 \times$ | 32.9 | 64.5 | 29.4 | 28.9 | 19.3 | 30.1 | 35.8 | 43.2 |
@@ -53,9 +54,11 @@ We exhibit the experiment resullts of several representative methods on SODA tes
     | ATSS | $1 \times$ | 30.1 | 59.5 | 26.3 | 26.1 | 17.0 | 27.4 | 32.8 | 40.5 |
     | Deformable-DETR | $50e$ | 23.4 | 50.6 | 18.8 | 19.2 | 10.1 | 20.0 | 26.5 | 34.2 |
     | Sparse RCNN | $1 \times$ | 28.3 | 55.8 | 25.5 | 24.2 | 14.1 | 25.5 | 31.7 | 39.4 |
+    -->
     
  - SDOA-A
- 
+    ![image](imgs/sodaa_res.PNG)
+    <!--
     | **Method** | **Schedule** | **$AP$** | **$AP_{50}$** | **$AP_{75}$** | **$AP_T$** | **$AP_{eT}$** | **$AP_{rT}$** | **$AP_{gT}$** | **$AP_S$** |
     | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
     | Rotated Faster RCNN| $1 \times$ | 34.0 | 72.6 | 25.7 | 32.5 | 18.6 | 34.2 | 39.0 | 34.4 |
@@ -65,6 +68,7 @@ We exhibit the experiment resullts of several representative methods on SODA tes
     | Oriented RCNN | $1 \times$ | 36.0 | 73.2 | 30.4 | 34.4 | 19.5 | 35.6 | 41.2 | 36.7 |
     | S$^2$ A-Net | $1 \times$ | 29.6 | 72.4 | 14.0 | 28.3 | 15.6 | 29.1 | 33.8 | 29.5 |
     | DODet | $1 \times$ | 32.4 | 69.5 | 24.4 | 30.9 | 17.7 | 32.0 | 36.6 | 32.9 |
+    -->
 
 ### Download
 We provide the downloading of our paper, datasets and pretrained models.
