@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Large-scale Benchmark for Small Object Detection: SODA
 
 You can use the [editor on GitHub](https://github.com/shaunyuan22/SODA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
