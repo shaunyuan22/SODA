@@ -3,10 +3,10 @@
 
 ## **Update**
  - [20220726] Our [Homepage](https://shaunyuan22.github.io/SODA/) for SODA benchmark opens!
- - [20220726] Our paper of SODA dataset is submitted to [*arXiv*](https://arxiv.org).
- - [20220726] SODA Benchmark is officially available, please refer to the **Download** below.
- - [20220726] [Codes](https://github.com/shaunyuan22/SODA) for training and evaluating of SODA-D and SODA-A dataset are released.
- - [20220726] Pretrained models are released, please see the **Download** part.
+ <!-- - [20220726] Our paper of SODA dataset is submitted to [*arXiv*](https://arxiv.org). -->
+ <!-- - [20220726] SODA Benchmark is officially available, please refer to the **Download** below. -->
+ <!-- - [20220726] [Codes](https://github.com/shaunyuan22/SODA) for training and evaluating of SODA-D and SODA-A dataset are released. -->
+ <!-- - [20220726] Pretrained models are released, please see the **Download** part. -->
  
 ## **SODA-D**
 SODA-D contains 24704 well-chosen and high-quality images under driving scenarios, on which 277596 instances of 9 categories with horizontal bounding boxes were annotated. Some example images are shown below.
