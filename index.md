@@ -49,6 +49,7 @@ We exhibit the quantitative experiment resullts of several representative method
     | DODet | $1 \times$ | 32.4 | 69.5 | 24.4 | 30.9 | 17.7 | 32.0 | 36.6 | 32.9 |
     -->
 
+<!--
 ## **Download**
 We provide the downloading of our paper, datasets and pretrained models.
  - Paper: [Towards Large-Scale Small Object Detection: Survey and Benchmarks](https://arxiv.org)
@@ -56,7 +57,7 @@ We provide the downloading of our paper, datasets and pretrained models.
    - SODA-D: [OneDrvie](https://www.microsoft.com/onedrive); [BaiduNetDisk](https://pan.baidu.com)
    - SODA-A: [OneDrvie](https://www.microsoft.com/onedrive); [BaiduNetDisk](https://pan.baidu.com)
  - Pretrained Models: Models trained on train-set are available at: [OneDrvie](https://www.microsoft.com/onedrive); [BaiduNetDisk](https://pan.baidu.com)
-
+-->
 
 ## **Support or Contact**
 If you have any problems about our SODA benchmark, please be free to contact us at shaunyuan@mail.nwpu.edu.cn.
