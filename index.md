@@ -5,7 +5,7 @@
  - [20220726] Our [Homepage](https://shaunyuan22.github.io/SODA/) for SODA benchmark opens!
  - [20220727] We add the visualization images of SODA.
  - [20220728] The quantitative results of several mainstream methods on SODA test-set are reported!
- - [20220726] Our paper of SODA dataset is submitted to [*arXiv*](https://arxiv.org/abs/2207.14096)
+ - [20220726] Our paper of SODA dataset is submitted to [*arXiv*](https://arxiv.org/abs/2207.14096).
  <!-- - [20220726] SODA Benchmark is officially available, please refer to the **Download** below. -->
  <!-- - [20220726] [Codes](https://github.com/shaunyuan22/SODA) for training and evaluating of SODA-D and SODA-A dataset are released. -->
  <!-- - [20220726] Pretrained models are released, please see the **Download** part. -->
