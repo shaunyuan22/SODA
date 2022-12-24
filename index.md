@@ -6,7 +6,7 @@
  - [20220727] We add the visualization of images in SODA.
  - [20220728] The quantitative results of several mainstream methods on SODA test-set are reported!
  - [20220728] Our paper of SODA dataset is submitted to [*arXiv*](https://arxiv.org/abs/2207.14096).
- - [20220810] **Once the internal privacy review is completed, we will release the whole SODA dataset and the download info on our [Homepage](https://shaunyuan22.github.io/SODA/)**.
+ - [20221225] SODA Benchmark is officially available, please refer to the **Download** below.
  <!-- - [20220726] SODA Benchmark is officially available, please refer to the **Download** below. -->
  <!-- - [20220726] [Codes](https://github.com/shaunyuan22/SODA) for training and evaluating of SODA-D and SODA-A dataset are released. -->
  <!-- - [20220726] Pretrained models are released, please see the **Download** part. -->
@@ -50,13 +50,15 @@ We exhibit the quantitative experiment resullts of several representative method
     | DODet | $1 \times$ | 32.4 | 69.5 | 24.4 | 30.9 | 17.7 | 32.0 | 36.6 | 32.9 |
     -->
 
-<!--
+
 ## **Download**
 We provide the downloading of our paper, datasets and pretrained models.
  - Paper: [Towards Large-Scale Small Object Detection: Survey and Benchmarks](https://arxiv.org)
  - Datasets:
-   - SODA-D: [OneDrvie](https://www.microsoft.com/onedrive); [BaiduNetDisk](https://pan.baidu.com)
-   - SODA-A: [OneDrvie](https://www.microsoft.com/onedrive); [BaiduNetDisk](https://pan.baidu.com)
+   - SODA-D: [OneDrvie]([https://www.microsoft.com/onedrive](https://nwpueducn-my.sharepoint.com/:f:/g/personal/gcheng_nwpu_edu_cn/EhXUvvPZLRRLnmo0QRmd4YUBTeeDkc1RbMg-far4_nGJwA?e=rczckx)); [BaiduNetDisk](链接: https://pan.baidu.com/s/17iSdd8HkMn1ZM3Pl8rDE9Q?pwd=SODA)
+   - SODA-A: [OneDrvie]([https://www.microsoft.com/onedrive](https://nwpueducn-my.sharepoint.com/:f:/g/personal/gcheng_nwpu_edu_cn/EqJBjheHJXVOrMQWcr8dOt0Bf52Sq_IkFDTc2vSHK-yQrg?e=hM6u6Y)); [BaiduNetDisk](链接: https://pan.baidu.com/s/1MN7DV5YsHcRefZlr7RxEyw?pwd=SODA)
+
+<!--
  - Pretrained Models: Models trained on train-set are available at: [OneDrvie](https://www.microsoft.com/onedrive); [BaiduNetDisk](https://pan.baidu.com)
 -->
 
