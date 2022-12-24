@@ -52,7 +52,7 @@ We exhibit the quantitative experiment resullts of several representative method
 
 
 ## **Download**
-We provide the downloading of our paper, datasets and pretrained models.
+We provide the downloading of our paper and datasets.
  - Paper: [Towards Large-Scale Small Object Detection: Survey and Benchmarks](https://arxiv.org)
  - Datasets:
    - SODA-D: [OneDrvie](https://nwpueducn-my.sharepoint.com/:f:/g/personal/gcheng_nwpu_edu_cn/EhXUvvPZLRRLnmo0QRmd4YUBvDLGMixS11_Sr6trwJtTrQ?e=PellK6); [BaiduNetDisk](https://pan.baidu.com/s/1aqmqkG_GzDKBTM_NK5ecqA?pwd=SODA)
