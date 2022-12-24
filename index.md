@@ -12,12 +12,12 @@
  <!-- - [20220726] Pretrained models are released, please see the **Download** part. -->
  
 ## **SODA-D**
-SODA-D contains 24704 well-chosen and high-quality images under driving scenarios, on which 277596 instances of 9 categories with horizontal bounding boxes were annotated. Some example images are shown below.
-![image](imgs/sodad_vis.png)
+SODA-D contains 24828 well-chosen and high-quality images under driving scenarios, on which 278433 instances of 9 categories with horizontal bounding boxes were annotated. Some example images are shown below.
+![image](imgs/SODA-D Vis.png)
 
 ## **SODA-A**
-SODA-A comprises 2510 high-resolution images of aerial scenes, which has 800203 instances annotated with oriented rectangle box annotations over 9 classes. An example image of SODA-A is shown next.
-![image](imgs/sodaa_vis.png)
+SODA-A comprises 2513 high-resolution images of aerial scenes, which has 872069 instances annotated with oriented rectangle box annotations over 9 classes. An example image of SODA-A is shown next.
+![image](imgs/SODA-A Vis.png)
 
 ## **Results**
 We exhibit the quantitative experiment resullts of several representative methods on SODA test-set as follow.
