@@ -55,8 +55,8 @@ We exhibit the quantitative experiment resullts of several representative method
 We provide the downloading of our paper, datasets and pretrained models.
  - Paper: [Towards Large-Scale Small Object Detection: Survey and Benchmarks](https://arxiv.org)
  - Datasets:
-   - SODA-D: [OneDrvie]([https://www.microsoft.com/onedrive](https://nwpueducn-my.sharepoint.com/:f:/g/personal/gcheng_nwpu_edu_cn/EhXUvvPZLRRLnmo0QRmd4YUBTeeDkc1RbMg-far4_nGJwA?e=rczckx)); [BaiduNetDisk](链接: https://pan.baidu.com/s/17iSdd8HkMn1ZM3Pl8rDE9Q?pwd=SODA)
-   - SODA-A: [OneDrvie]([https://www.microsoft.com/onedrive](https://nwpueducn-my.sharepoint.com/:f:/g/personal/gcheng_nwpu_edu_cn/EqJBjheHJXVOrMQWcr8dOt0Bf52Sq_IkFDTc2vSHK-yQrg?e=hM6u6Y)); [BaiduNetDisk](链接: https://pan.baidu.com/s/1MN7DV5YsHcRefZlr7RxEyw?pwd=SODA)
+   - SODA-D: [OneDrvie](https://nwpueducn-my.sharepoint.com/:f:/g/personal/gcheng_nwpu_edu_cn/EhXUvvPZLRRLnmo0QRmd4YUBvDLGMixS11_Sr6trwJtTrQ?e=PellK6); [BaiduNetDisk](https://pan.baidu.com/s/17iSdd8HkMn1ZM3Pl8rDE9Q?pwd=SODA)
+   - SODA-A: [OneDrvie](https://nwpueducn-my.sharepoint.com/:f:/g/personal/gcheng_nwpu_edu_cn/EqJBjheHJXVOrMQWcr8dOt0BZJAfn1bkUSEQwIKHkVE0Vg?e=Hhcnoi); [BaiduNetDisk](https://pan.baidu.com/s/1MN7DV5YsHcRefZlr7RxEyw?pwd=SODA)
 
 <!--
  - Pretrained Models: Models trained on train-set are available at: [OneDrvie](https://www.microsoft.com/onedrive); [BaiduNetDisk](https://pan.baidu.com)
