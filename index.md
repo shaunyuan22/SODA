@@ -7,6 +7,7 @@
  - [20220728] The quantitative results of several mainstream methods on SODA test-set are reported!
  - [20220728] Our paper of SODA dataset is submitted to [*arXiv*](https://arxiv.org/abs/2207.14096).
  - [20221225] SODA Benchmark is officially available, please refer to the **Download** below.
+ - [20230102] Benchmark codes of SODA dataset are available now, please refer to the **Codes** part.
  <!-- - [20220726] SODA Benchmark is officially available, please refer to the **Download** below. -->
  <!-- - [20220726] [Codes](https://github.com/shaunyuan22/SODA) for training and evaluating of SODA-D and SODA-A dataset are released. -->
  <!-- - [20220726] Pretrained models are released, please see the **Download** part. -->
@@ -57,6 +58,13 @@ We provide the downloading of our paper and datasets.
  - Datasets:
    - SODA-D: [OneDrvie](https://nwpueducn-my.sharepoint.com/:f:/g/personal/gcheng_nwpu_edu_cn/EhXUvvPZLRRLnmo0QRmd4YUBvDLGMixS11_Sr6trwJtTrQ?e=PellK6); [BaiduNetDisk](https://pan.baidu.com/s/1aqmqkG_GzDKBTM_NK5ecqA?pwd=SODA)
    - SODA-A: [OneDrvie](https://nwpueducn-my.sharepoint.com/:f:/g/personal/gcheng_nwpu_edu_cn/EqJBjheHJXVOrMQWcr8dOt0BZJAfn1bkUSEQwIKHkVE0Vg?e=Hhcnoi); [BaiduNetDisk](https://pan.baidu.com/s/1G6x-hslv5C02WikZCzsNlA?pwd=SODA)
+
+## **Codes**
+The official codes of our benchmark, which mainly includes **data preparation** and **evaluation**, are released below.
+ - SODA-D Benchmark: [SODA-mmdetection](https://github.com/shaunyuan22/SODA-mmdetection)
+ - SODA-A Benchmark: [SODA-mmrotate](https://github.com/shaunyuan22/SODA-mmrotate)
+
+
 
 <!--
  - Pretrained Models: Models trained on train-set are available at: [OneDrvie](https://www.microsoft.com/onedrive); [BaiduNetDisk](https://pan.baidu.com)
