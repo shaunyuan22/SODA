@@ -5,11 +5,11 @@
  - [20220726] Our [Homepage](https://shaunyuan22.github.io/SODA/) for SODA benchmark opens!
  - [20220727] We add the visualization of images in SODA.
  - [20220728] The quantitative results of several mainstream methods on SODA test-set are reported!
- - [20220728] Our paper of SODA dataset is submitted to [*arXiv*](https://arxiv.org/abs/2207.14096).
+ - [20220728] Our paper of SODA dataset is submitted to [**arXiv**](https://arxiv.org/abs/2207.14096).
  - [20221225] SODA Benchmark is officially available, please refer to the **Download** below.
  - [20230102] Benchmark codes of SODA dataset are available now, please refer to the **Codes** part.
  - [20230625] Our paper has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence** ([**TPAMI**](https://ieeexplore.ieee.org/document/10168277)), in which the final version and Appendix files are available. 
- <!-- - [20220726] [Codes](https://github.com/shaunyuan22/SODA) for training and evaluating of SODA-D and SODA-A dataset are released. -->
+ - [20230818] One paper based on the SODA benchmark has been accepted by **ICCV 2023** and is available at [**arXiv**](https://arxiv.org/abs/2308.09534).
  <!-- - [20220726] Pretrained models are released, please see the **Download** part. -->
  
 ## **SODA-D**
