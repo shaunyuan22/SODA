@@ -22,7 +22,7 @@ SODA-A comprises 2513 high-resolution images of aerial scenes, which has 872069 
 
 ## **Results**
 We exhibit the quantitative experiment resullts of several representative methods on SODA test-set as follow.
- - SDOA-D
+ - SODA-D
   ![image](imgs/SODA-D.PNG)
     <!--
     | **Method** | **Schedule** | **$AP$** | **$AP_{50}$** | **$AP_{75}$** | **$AP_T$** | **$AP_{eT}$** | **$AP_{rT}$** | **$AP_{gT}$** | **$AP_S$** |
@@ -37,7 +37,7 @@ We exhibit the quantitative experiment resullts of several representative method
     | Sparse RCNN | $1 \times$ | 28.3 | 55.8 | 25.5 | 24.2 | 14.1 | 25.5 | 31.7 | 39.4 |
     -->
     
- - SDOA-A
+ - SODA-A
   ![image](imgs/SODA-A.PNG)
     <!--
     | **Method** | **Schedule** | **$AP$** | **$AP_{50}$** | **$AP_{75}$** | **$AP_T$** | **$AP_{eT}$** | **$AP_{rT}$** | **$AP_{gT}$** | **$AP_S$** |
