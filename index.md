@@ -11,6 +11,9 @@
  - [20230625] Our paper has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence** ([**TPAMI**](https://ieeexplore.ieee.org/document/10168277)), in which the final version and Appendix files are available. 
  - [20231004] One paper based on the SODA benchmark has been accepted by [**ICCV 2023**](https://openaccess.thecvf.com/content/ICCV2023/html/Yuan_Small_Object_Detection_via_Coarse-to-fine_Proposal_Generation_and_Imitation_Learning_ICCV_2023_paper.html), and the code please refer to the [**Project**](https://github.com/shaunyuan22/CFINet).
  <!-- - [20220726] Pretrained models are released, please see the **Download** part. -->
+
+ ## **License**
+Our SODA dataset is licensed under [**CC BY-NC 4.0**](https://creativecommons.org/licenses/by-nc/4.0/), which means it is freely available for **academic use only**, and any **commercial use is prohibited**.
  
 ## **SODA-D**
 SODA-D contains 24828 well-chosen and high-quality images under driving scenarios, on which 278433 instances of 9 categories with horizontal bounding boxes were annotated. Some example images are shown below.
